@@ -1,0 +1,5 @@
+[project]
+name = "ai-powered-meeting-summarizer"
+version = "0.1.0"
+description = "Gradio-powered application that converts audio recordings of meetings into transcripts and provides concise summaries using whisper."
+requires-python = ">=3.10"
